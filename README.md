@@ -10,6 +10,6 @@ Before I started at Accrosoft, I worked for myself on various freelance web deve
 
 I aim to use this github to share the occassional weird thing that I'm working on.
 
-[<img align="left alt="LinkindIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/linkedin.svg" />][https://www.linkedin.com/in/nicholasgriffin-gb/]
-[<img align="left alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/twitter.svg" />][https://twitter.com/NGriffintn]
+[<img align="left" alt="LinkindIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/linkedin.svg" />][https://www.linkedin.com/in/nicholasgriffin-gb/]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/twitter.svg" />][https://twitter.com/NGriffintn]
 
