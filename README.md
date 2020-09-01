@@ -29,14 +29,10 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-<br />
-
 ### Recent Github activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-
-<br />
 
 ### Latest Blog Posts
 
