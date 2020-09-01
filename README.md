@@ -42,6 +42,7 @@ No Activity tracked this Week
 
 <img align="left" alt="Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nicholasgriffintn&show_icons=true&hide_border=true" />
 
+<br>
 <br />
 
 ### Latest Blog Posts
