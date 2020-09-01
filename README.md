@@ -21,13 +21,28 @@ I aim to use this github to share the occassional weird thing that I'm working o
 [twitter]: https://twitter.com/NGriffintn
 [linkedin]: https://youtube.com/nicholasgriffin-gb
 
-### Recent activity
+### Recently used langauges
 
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
+
+<br />
+
+### Recent Github activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<br />
+
+#### Stats
+
+<img align="left" alt="Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nicholasgriffintn&show_icons=true&hide_border=true" />
+
+<br />
 
 ### Latest Blog Posts
 
