@@ -1,4 +1,4 @@
-### Welcome to my Github 👋
+### Welcome to my Github <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 
 ## I'm [Nicholas Griffin](https://nicholasgriffin.dev)
 
@@ -20,6 +20,11 @@ I aim to use this github to share the occassional weird thing that I'm working o
 [website]: https://nicholasgriffin.dev
 [twitter]: https://twitter.com/NGriffintn
 [linkedin]: https://youtube.com/nicholasgriffin-gb
+
+### Recent activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### Latest Blog Posts
 
