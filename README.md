@@ -24,6 +24,9 @@ I aim to use this github to share the occassional weird thing that I'm working o
 ### Recent activity
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 ### Latest Blog Posts
