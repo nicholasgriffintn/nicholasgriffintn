@@ -25,7 +25,11 @@ I aim to use this github to share the occassional weird thing that I'm working o
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JavaScript   7 hrs 58 mins   ██████████████████▓░░░░░░   74.04 % 
+JSON         47 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+TypeScript   37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+SCSS         32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+YAML         32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 ```
 <!--END_SECTION:waka-->
 
