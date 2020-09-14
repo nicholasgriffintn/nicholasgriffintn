@@ -25,11 +25,11 @@ I aim to use this github to share the occassional weird thing that I'm working o
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   26 hrs 59 mins  ███████████████████▒░░░░░   77.66 % 
-JSON         2 hrs 16 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
-SCSS         1 hr 30 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
-TypeScript   52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-Other        50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+JavaScript   33 hrs 3 mins   ████████████████████░░░░░   79.53 % 
+JSON         2 hrs 44 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+SCSS         1 hr 24 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+Other        1 hr 23 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+HTML         1 hr 1 min      ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
 ```
 <!--END_SECTION:waka-->
 
