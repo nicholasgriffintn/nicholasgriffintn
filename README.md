@@ -15,27 +15,4 @@ I aim to use this github to share the occassional weird thing that I'm working o
 
 [website]: https://nicholasgriffin.dev
 [twitter]: https://twitter.com/NGriffintn
-[linkedin]: https://youtube.com/nicholasgriffin-gb
-
-### Recently used langauges
-
-<!--START_SECTION:waka-->
-```text
-JavaScript   15 hrs 35 mins  ███████████████████░░░░░░   75.36 % 
-PHP          1 hr 38 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
-SCSS         1 hr 38 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
-JSON         35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
-HTML         30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
-```
-<!--END_SECTION:waka-->
-
-### Recent Github activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-### Latest Blog Posts
-
-<!--- BLOG-POST-LIST:START -->
-
-<!--- BLOG-POST-LIST:END -->
+[linkedin]: https://linkedin.com/nicholasgriffin-gb
