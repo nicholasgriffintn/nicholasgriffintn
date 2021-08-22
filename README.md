@@ -2,7 +2,7 @@
 
 ## I'm [Nicholas Griffin](https://nicholasgriffin.dev)
 
-## I'm a Web Developer, Occassional Blogger and Technology Enthusiast
+## I'm a Developer, Occassional Blogger and Technology Enthusiast
 
 I aim to use this github to share the occassional weird thing that I'm working on.
 
