@@ -2,7 +2,7 @@
 
 ## I'm [Nicholas Griffin](https://nicholasgriffin.dev)
 
-I'm a Senior Software Engineer who is currently based in London, UK. I write a lot of JavaScript and TypeScript apps, for the public, this GitHub is where I'll share the odd project that I'm working on.
+I'm a Senior Software Engineer who is currently based in London, UK. I write a lot of JavaScript and TypeScript apps, for my public profile, I'll be sharing the odd project that I'm working on, of course, a lot of what I'm working on is private :).
 
 I generally create websites for GitHub projects based around some technology that I'm interested in at the time, however, sometimes, I may also work on tools around creating websites.
 
