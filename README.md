@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  I'm currently a Senior Software Engineer at the [BBC](http://github.com/bbc), based in London UK. I work on a whole range of side projects, some of which will be completed some won't. Other than that, I'm working on cool new stuff at the BBC.
+  I'm currently a Senior Software Engineer at the <a href="http://github.com/bbc">BBC</a>, based in London UK. I work on a whole range of side projects, some of which will be completed some won't. Other than that, I'm working on cool new stuff at the BBC.
 </p>
 
 <p align="center">
