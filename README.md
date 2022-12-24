@@ -11,5 +11,3 @@ I'm currently a Senior Software Engineer at the [BBC](http://github.com/bbc), ba
 ## Contributions
 
 ![Contribution Graph](https://nicholasgriffintn.github.io/nicholasgriffintn/github-contribution-snake.svg)
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=nicholasgriffintn.visitor-badge)
