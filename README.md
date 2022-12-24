@@ -1,22 +1,15 @@
-# Hey! Welcome to my GitHub! I'm [Nicholas Griffin](https://nicholasgriffin.dev)
+# Hey 👋! I'm [Nicholas Griffin](https://nicholasgriffin.dev)
 
-I'm a Senior Software Engineer who is currently based in London, UK. I write a lot of JavaScript and TypeScript apps, for my public profile, I'll be sharing the odd project that I'm working on, of course, a lot of what I'm working on is private :).
+I'm currently a Senior Software Engineer at the [BBC](http://github.com/bbc), based in London UK. I work on a whole range of side projects, some of which will be completed some won't. Other than that, I'm working on cool new stuff at the BBC.
 
-I generally create websites for GitHub projects based around some technology that I'm interested in at the time, however, sometimes, I may also work on tools around creating websites.
-
-## Socials
-
-[![Website](https://img.shields.io/website?label=nicholasgriffin.dev&style=for-the-badge&url=https%3A%2F%2Fnicholasgriffin.dev)](https://nicholasgriffin.dev)
-
-[<img align="left" alt="LinkindIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />][linkedin]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" />][twitter]
-
-<br />
-
-[website]: https://nicholasgriffin.dev
-[twitter]: https://twitter.com/NGriffintn
-[linkedin]: https://linkedin.com/nicholasgriffin-gb
+[![Twitter Follow](https://img.shields.io/twitter/follow/ngriffin_uk?label=Follow)](https://twitter.com/intent/follow?screen_name=ngriffin_uk)
+[![Linkedin](https://img.shields.io/badge/-@nicholasgriffin-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/nicholasgriffin-gb/)](https://www.linkedin.com/in/nicholasgriffin-gb/)
+![GitHub followers](https://img.shields.io/github/followers/nicholasgriffintn?label=Follow&style=social)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://nicholasgriffin.dev/)](https://nicholasgriffin.dev/)
+![Visitors Count](https://visitor-badge.glitch.me/badge?page_id=nicholasgriffintn.nicholasgriffintn)
 
 ## Contributions
 
 ![Contribution Graph](https://nicholasgriffintn.github.io/nicholasgriffintn/github-contribution-snake.svg)
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=nicholasgriffintn.visitor-badge)
