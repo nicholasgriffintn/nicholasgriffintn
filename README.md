@@ -22,8 +22,6 @@
   <a href="https://nicholasgriffin.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://nicholasgriffin.dev/" alt="View my Website" />
   </a>
-  
-  <img src="https://visitor-badge.glitch.me/badge?page_id=nicholasgriffintn.nicholasgriffintn" alt="Visitors to my GitHub profile" />
 </p>
 
 <h2 align="center">
