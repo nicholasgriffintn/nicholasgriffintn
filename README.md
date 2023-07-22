@@ -7,5 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://nicholasgriffintn.github.io/nicholasgriffintn/github-contribution-snake.svg" alt="My Contributions Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://nicholasgriffintn.github.io/nicholasgriffintn/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://nicholasgriffintn.github.io/nicholasgriffintn/github-contribution-grid-snake.svg">
+    <img alt="My Contributions Graph" src="https://nicholasgriffintn.github.io/nicholasgriffintn/github-contribution-grid-snake.svg">
+  </picture>
 </p>
