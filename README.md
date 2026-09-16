@@ -5,5 +5,5 @@
   <em>Senior Software Engineer currently based in London 🇬🇧</em>
 </p>
 <p align="center">
-  Building experimentation capabilities at <a href="http://github.com/bbc">BBC</a> | Experimenting with AI and data | Building various side projects
+  Building data and experimentation capabilities at <a href="http://github.com/bbc">BBC</a> | Experimenting with AI and data | Building various side projects
 </p>
